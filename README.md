@@ -133,13 +133,34 @@ Contact Page Design:
 
 ## Features
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/TheQuizArms#Features)
+### The home page features:
 
-This section can be used to explain what pages your site is made up of.
+- Navigation bar with title and logo with links to further pages on Safeguarding and Contact.
+- A jumbotron with a slogan and button to the safeguarding page.
+- A carousel of images from walks.
+- Two Bootstrap cards on ‘Who we are?’ and ‘What we do?’
+- A section on Next meetings with two fake walks and a training day in safeguarding hosted by the club.
+- Footer with the slogan, socials and links to reporting/ contacting us.
+
+### The safeguarding page features:
+
+- Navigation and Footer will remain the same.
+- A jumbotron on what is safeguarding?
+- An embedded video
+- 3 cards on What you can do?, Signs to look for and Action Steps
+
+### **The contact page features:**
+
+- Navigation bar and footer will remain the same with additional more info.
+- A contact form
+- a hero image
 
 ### General features on each page
 
-If there is a feature that appears on all pages of your site, include it here. Examples of what to include would the the navigation, a footer and a favicon.
+- Navigation bar with title and logo with links to further pages on Safeguarding and Contact.
+- Footer with the slogan, socials and links to reporting/ contacting us.
+- Logo
+
 
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
@@ -165,7 +186,8 @@ Code Institute have an amazing channel for all things accessibility (a11y-access
 
 ### Languages Used
 
-Make a note here of all the languages used in creating your project. For the first project this will most likely just be HTML & CSS.
+HTML
+CSS
 
 ### Frameworks, Libraries & Programs Used
 
