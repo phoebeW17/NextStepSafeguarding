@@ -88,9 +88,15 @@ Final design from Copilot:
 
 ### Colour Scheme
 
-Add all information about your colour scheme for your site here. You can explain why you choose the colours you did?
+Following on from the logo design, I was able to extract the colours via Adobe Color in order to create a colour scheme for the website as a whole. The range of blues alongside the brown will help to provide a feel of the outdoors and the freedom the walks can give to people. The shade of cream is also gentle and allows for good contrast. 
 
-I like to include a palette of the colour scheme here, my favourite site for creating a colour palette is [coolors](https://coolors.co/), but there are lots of other sites that also do the same thing, like [ColorSpace](https://mycolor.space/?hex=%23F5F5F5&sub=1), [Muzli Colors](https://colors.muz.li/), [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) and [Canva](https://www.canva.com/colors/color-palette-generator/) to name a few.
+![Logo Colour Scheme](assets/images/logo-colour-scheme.png)
+
+The contrast was tested for accessibility:
+
+![Cream on teal contrast test](assets/images/contrast-test1.png)
+
+![Teal on cream contrast test](assets/images/contrast-test2.png)
 
 ### Typography
 
@@ -110,11 +116,17 @@ Use this section to explain what sort of imagery you plan to use through your si
 
 ### Wireframes
 
-Add the images or links for your wireframes here.
+Mobile First Design: 
+![Mobile devices wireframe sketch](assets/images/mobiledesign.JPG)
 
-There are lots of different options to create your wireframes - Code Institute students can access [Balsamiq](https://balsamiq.com/) as part of the course.
+Home Page Design: 
+![Home page wireframe sketch ](assets/images/homedesign.JPG)
 
-Some other options include [Figma](https://www.figma.com/), [AdobeXD](https://www.adobe.com/products/xd.html), [Sketch](https://www.sketch.com/?utm_source=google&utm_medium=cpc&adgroup=uxui&device=c&matchtype=e&utm_campaign=ADDICTMOBILE_SKETCH_GAD_DG_UK_T1_ALWAYS-ON_S_TRF_PROS_BRAND&utm_term=sketch&utm_source=google&utm_medium=cpc&utm_content=TOF_BRND__generic&hsa_acc=8710913982&hsa_cam=16831089317&hsa_grp=134620695759&hsa_ad=592060065319&hsa_src=g&hsa_tgt=kwd-14921750&hsa_kw=sketch&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwr4eYBhDrARIsANPywCjRIFn93DMezYnsyE5Fic_8l8kynJtut0GYMU01TiohHjwziFtlH0gaAhteEALw_wcB) and [Mockup](https://apps.apple.com/us/app/mockup-sketch-ui-ux/id1527554407) to name just a few! Or you can even go old school and get those wireframes completed using pen and paper. Just snap an image of the completed wireframes to add the images to the README.
+Safeguarding Page Design:
+![Safeguarding page wireframe sketch ](assets/images/safeguardingdesign.JPG)
+
+Contact Page Design: 
+![Contact page wireframe sketch ](assets/images/contactdesign.JPG)
 
 ## Features
 
