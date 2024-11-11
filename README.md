@@ -2,9 +2,9 @@
 
 My static website will be based on a fictitious walking group called Next Step and will feature their webpages on safeguarding and how they approach safeguarding issues in the club. I was inspired to create some webpages on the topic of safeguarding because it was a task we had to complete as part of the university walking club I was a part of. I think it is an absolutely vital topic to learn about so my aim is to create an easy to use site with clear information and call to action points in case the need to report a safeguarding issue occurs. 
 
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
+- Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
+- Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
 ---
 
@@ -76,7 +76,7 @@ Add your user stories here. You want to include first time visitors and returnin
 
 ## Design
 
-I knew I wanted to the club to have a logo, so began by drawing out a very rough design. I then asked Microsoft Copilot to produce a logo with the description and design features I required. 
+I knew I wanted the club to have a logo, so I began by drawing out a very rough design. I then asked Microsoft Copilot to produce a logo with the description and design features I required. 
 
 Starting Idea: 
 
@@ -113,7 +113,9 @@ I have chosen to use Merriweather Sans by Sorkin Type for paragraphs. For larger
 
 ### Imagery
 
-Use this section to explain what sort of imagery you plan to use through your site.
+The imagery focusses on both group togetherness on hikes and safeguarding. I have mostly used photography from UnSplash and my own library. I have used AI generated images for the logo and hero image on the contact page. I used Copilot to create the hero image. This allowed me to depict a scene of togetherness whilst highlghting that sometimes people who are vulnerable and struggling can be hidden in plain sight. 
+
+The images have been credited in the [credits](#credits) section of the ReadMe.
 
 ### Wireframes
 
