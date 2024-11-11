@@ -100,15 +100,16 @@ The contrast was tested for accessibility:
 
 ### Typography
 
-If you've imported fonts to use in your project, add some information about them here. You can include information like:
+I have used Google Fonts to import the chosen fonts for the website. 
 
-Why did you choose the font you have?
-Is this an accessibly friendly font?
-What weights have you included?
+I have chosen to use Chelsea Market by Tart Workshop for headings. This font has a rustic feel which replicates the outdoors, whilst being clear to read.
 
-I also like to include an image of the fonts chosen as a reference.
+![Chealsea Market font reference](assets/images/font1.png)
 
-[Google Fonts](https://fonts.google.com/) is a popular choice for importing fonts to use in your project, as it doesn't require you to download the fonts to use them.
+I have chosen to use Merriweather Sans by Sorkin Type for paragraphs. For larger blocks of text, this sans serif font is simple and clear to read. 
+
+![Merriweather Sans font reference](assets/images/font2.png)
+
 
 ### Imagery
 
