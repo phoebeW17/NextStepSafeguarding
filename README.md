@@ -1,14 +1,10 @@
 # Next Step Safeguarding
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
-
-Add a Blurb about the site here, what does it do, why did you build it?
+My static website will be based on a fictitious walking group called Next Step and will feature their webpages on safeguarding and how they approach safeguarding issues in the club. I was inspired to create some webpages on the topic of safeguarding because it was a task we had to complete as part of the university walking club I was a part of. I think it is an absolutely vital topic to learn about so my aim is to create an easy to use site with clear information and call to action points in case the need to report a safeguarding issue occurs. 
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
-
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
 
 ---
 
@@ -50,15 +46,45 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 
 ## User Experience (UX)
 
-👩🏻‍💻 View an example of a completed user experience section [here](https://github.com/kera-cudmore/Bully-Book-Club#user-experience-ux)
+## Initial Discussion
+
+Next Step is a website for a fictitious walking group local to Sheffield. The website requires some pages on safeguarding so that it's members are aware of the topic and know what to do if a safeguarding concern arises on a walk or a concern is linked to a walking club member.
+
+**Key information for the site**
+
+- What is safeguarding?
+- Signs to watch out for.
+- Action steps.
+- Contact page with links and information on how to report an issue.
+- Information about the club, upcoming walks and training.
 
 ### User Stories
 
 Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
 
+**First Time Visitor Goals**
+
+- To find information about the walking club.
+- To find information on safeguarding related to the club.
+- To to be able to navigate the site easily to find the information they need.
+- To connect to the club's social sites.
+
+**Returning Visitor Goals**
+
+- To be able to see the up to date information on meetings and training.
+- To access the contact form quickly.
+
 ## Design
 
-👩🏻‍💻 View an example of a completed design section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
+I knew I wanted to the club to have a logo, so began by drawing out a very rough design. I then asked Microsoft Copilot to produce a logo with the description and design features I required. 
+
+Starting Idea: 
+
+![Initial sketch of logo](assets/images/image_50373889.JPG)
+
+Final design from Copilot: 
+
+![Final logo design](assets/images/Walking%20Boot%20Shield%20Logo%20with%20Hills%20in%20a%20different%20color%20scheme.webp)
 
 ### Colour Scheme
 
