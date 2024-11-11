@@ -1,6 +1,34 @@
 /*Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
+/*CSS Variables*/
+:root {
+    --primary-font: "Chelsea Market", sans-serif;
+    --secondary-font: "Merriweather Sans", cursive;
+    --primary-color: #F2F1DF; /* cream */
+    --secondary-color: #012326; /* dark teal */
+    --highlight-color: #0396A6; /* blue */
+    --highlight-color-light: #7a9fc2; /* light blue */
+}
+
+
+/*Global Styles*/
 body {
-    font-family: 'Chelsea Market', sans-serif;
+    font-family: var(--primary-font);
+    color: var(--secondary-color);
+}
+
+
+/*Navbar*/
+
+#navbar {
+    background-color: var(--primary-color)
+}
+
+.nav-link active{
+    color: var(--highlight-color);
+}
+
+#navbar .logo {
+    width: 50px;
 }
