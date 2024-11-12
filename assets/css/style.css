@@ -96,6 +96,7 @@ a {
 
 .btn-light {
     border-color: var(--secondary-color);
+    margin-bottom: 10px;
 }
 
 /*Media Queries*/
