@@ -44,6 +44,21 @@ p .my-4 {
     width: 50px;
 }
 
+/*Header section*/
+
+.btn-primary {
+    background-color: var(--highlight-color);
+    border:none;
+}
+
+.btn-primary:hover {
+    background-color: var(--highlight-color-light);
+}
+
+.btn-primary:active {
+    background-color: var(--highlight-color);
+}
+
 /*Carousel*/
 
 .carousel-inner img {
