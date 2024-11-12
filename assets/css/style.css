@@ -41,7 +41,7 @@ p .my-4 {
 }
 
 #navbar .logo {
-    width: 50px;
+    width: 60px;
 }
 
 /*Header section*/
@@ -84,7 +84,15 @@ p .my-4 {
     color: var(--highlight-color);
 }
 
+/*Footer*/
 
+.social-links {
+    font-size: 2rem;
+}
+
+a {
+    color: #73320D;
+}
 
 /*Media Queries*/
 
