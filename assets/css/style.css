@@ -60,9 +60,25 @@ p .my-4 {
     margin-bottom: 2rem;
 }
 
+  
+
 /*Cards*/
 
 .card-title {
     font-family: var(--primary-font);
     color: var(--highlight-color);
 }
+
+
+
+/*Media Queries*/
+
+/*Who we are & what we do section*/
+@media (max-width: 425px) {
+    .container-fluid .row .col-6 {
+      width: 100%;
+      flex-basis: 100%;
+      max-width: 100%;
+      margin: 10px;
+    }
+  }
