@@ -54,7 +54,7 @@ p .my-4 {
 
 /*Main Section*/
 .column {
-    /*border: 1px solid #000;*/
+    border: 1px solid #000;
     min-height: 4rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
