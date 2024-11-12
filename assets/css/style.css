@@ -4,7 +4,7 @@
 /*CSS Variables*/
 :root {
     --primary-font: "Chelsea Market", sans-serif;
-    --secondary-font: "Merriweather Sans", cursive;
+    --secondary-font: "Merriweather Sans";
     --primary-color: #F2F1DF; /* cream */
     --secondary-color: #012326; /* dark teal */
     --highlight-color: #0396A6; /* blue */
@@ -14,10 +14,19 @@
 
 /*Global Styles*/
 body {
-    font-family: var(--primary-font);
+    font-family: var(--secondary-font);
     color: var(--secondary-color);
 }
 
+h1 {
+    font-family: var(--secondary-font);
+    color: var(--highlight-color); 
+}
+
+p .my-4 {
+    font-family: var(--secondary-font);
+    font-size: 1.2rem;
+}
 
 /*Navbar*/
 
