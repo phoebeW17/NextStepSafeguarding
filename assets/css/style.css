@@ -32,7 +32,7 @@ p .my-4 {
 /*Navbar*/
 
 #navbar {
-    background-color: var(--primary-color)
+    background-color: var(--primary-color);
     font-family: var(--primary-font);
 }
 
@@ -73,11 +73,6 @@ p .my-4 {
 
 /*Media Queries*/
 
-/*Carousel position on larger screens*/
-
-
-
-
 /*Who we are & what we do section*/
 @media (max-width: 425px) {
     .container-fluid .row .col-6 {
@@ -97,5 +92,3 @@ p .my-4 {
       margin: 10px;
     }
   }
-    
-}
