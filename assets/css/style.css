@@ -54,7 +54,7 @@ p .my-4 {
 
 /*Main Section*/
 .column {
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
     min-height: 4rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -73,6 +73,11 @@ p .my-4 {
 
 /*Media Queries*/
 
+/*Carousel position on larger screens*/
+
+
+
+
 /*Who we are & what we do section*/
 @media (max-width: 425px) {
     .container-fluid .row .col-6 {
@@ -82,3 +87,15 @@ p .my-4 {
       margin: 10px;
     }
   }
+
+/*Meetings section*/
+@media screen and (max-width: 768px) {
+    .container-fluid .row .col-4 {
+      width: 100%;
+      flex-basis: 100%;
+      max-width: 100%;
+      margin: 10px;
+    }
+  }
+    
+}
