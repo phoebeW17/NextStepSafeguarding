@@ -47,7 +47,7 @@ p .my-4 {
 /*Header section*/
 
 .btn-primary {
-    background-color: var(--highlight-color);
+    background-color: var(--secondary-color);
     border:none;
 }
 
@@ -92,6 +92,10 @@ p .my-4 {
 
 a {
     color: #73320D;
+}
+
+.btn-light {
+    border-color: var(--secondary-color);
 }
 
 /*Media Queries*/
