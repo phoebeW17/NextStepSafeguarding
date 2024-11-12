@@ -44,6 +44,13 @@ p .my-4 {
     width: 50px;
 }
 
+/*Carousel*/
+
+.carousel-inner img {
+    height: 300px; /* Set a fixed height for all images */
+    width: 50%;
+    object-fit: cover; /* Ensure the image covers the entire area without stretching */
+}
 
 /*Main Section*/
 .column {
