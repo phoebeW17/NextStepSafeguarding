@@ -2,8 +2,6 @@
 
 My static website will be based on a fictitious walking group called Next Step and will feature their webpages on safeguarding and how they approach safeguarding issues in the club. I was inspired to create some webpages on the topic of safeguarding because it was a task we had to complete as part of the university walking club I was a part of. I think it is an absolutely vital topic to learn about so my aim is to create an easy to use site with clear information and call to action points in case the need to report a safeguarding issue occurs. 
 
-- Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
-
 Live site can be found here: [Next Step Safeguarding](https://phoebew17.github.io/NextStepSafeguarding)
 
 ---
@@ -84,7 +82,7 @@ Starting Idea:
 
 Final design from Copilot: 
 
-![Final logo design](assets/images/Walking%20Boot%20Shield%20Logo%20with%20Hills%20in%20a%20different%20color%20scheme.webp)
+![Final logo design](assets/images/boot-logo.webp)
 
 ### Colour Scheme
 
@@ -161,9 +159,6 @@ Contact Page Design:
 - Footer with socials and links to reporting/ contacting us.
 - Logo
 
-
-I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
-
 ### Future Implementations
 
 What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
@@ -176,8 +171,6 @@ My site meets the minimum contrast requirements.
 I have chosen fonts that are dyslexia/accessible friendly.
 
 ## Technologies Used
-
-👩🏻‍💻 View an example of a completed Technologies Used section [here](https://github.com/kera-cudmore/Bully-Book-Club#Technologies-Used)
 
 ### Languages Used
 
@@ -201,9 +194,6 @@ Favicon
 
 ## Deployment & Local Development
 
-👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
-
-
 ### Deployment
 
 I utilised Github Pages to deploy my static site. Please find a guide on how to do so below:
@@ -213,47 +203,77 @@ I utilised Github Pages to deploy my static site. Please find a guide on how to 
 3. Click on the settings icon.
 4. On the left hand side in the navigation page, find the Pages link.
 5. In the  Branch section of Build and Deploy, make sure to choose main from the drop down menu. then select Root in the folder drop menu.
-6. Click Save. The site i snow live and can be accessed via the URL. This can also be found on the repository homepage.
+6. Click Save. The site is now live and can be accessed via the URL. This can also be found on the repository homepage.
 
 ### Local Development
 
-The local development section gives instructions on how someone else could make a copy of your project to play with on their local machine. This section will get more complex in the later projects, and can be a great reference to yourself if you forget how to do this.
-
 #### How to Fork
 
-Place instructions on how to fork your project here.
+To fork the NextStepSafeguarding repository:
+
+1. Log in to Github.
+2. Find the NextStepSafeguarding repository.
+3. Find the fork button in the top right hand corner.
 
 #### How to Clone
 
-Place instructions on how to clone your project here.
+To clone the NextStepSafeguarding repository:
+
+1. Log in to Github.
+2. Find the NextStepSafeguarding repository.
+3. Click on the code button, in the clone section select the option you desire to clone the project with. Then copy the URL.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 ## Testing
 
-Start as you mean to go on - and get used to writing a TESTING.md file from the very first project!
+I utilised Google Dev Tools to identify any bugs as I went along. 
 
-Testing requirements aren't massive for your first project, however if you start using a TESTING.md file from your first project you will thank yourself later when completing your later projects, which will contain much more information.
-  
-Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
+I utilised Microsoft Copilot in the browser to strengthen my knowledge, for example defining parts of the Bootstrap framework.
+
+I got advice from the coding coach in a open call regarding specific advice on Bootstrap framework and he helped me align the buttons within the footer.
+
+I got further advice in the SME open call to reposition the carousel feature. Spencer was able to pinpoint the bug and changed the code snippet for me. 
+
+
 
 ## Credits
-
-👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
-
-
-The learning materials produced by 
 
 ### Code Used
 
 If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
 
+The learning materials produced by Code Institute. I utilised parts of the Love Running project and also Boardwalk Games. These sections are marked with a comment in the code. 
+
+Github Copilot - both inline and the chat function were used to correct lines of code and provide snippets as mini templates which I could style. These sections are marked with a comment in the code.
+
+I used Bootstrap to form the carousel, card elements, buttons and navbar. 
+
 ### Content
 
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+The content on the Home page was written by Phoebe Whiteley. I utlised Copilot to produce part of the text on the Safeguarding page.
+
+Websites I used for research: 
+
+
 
 ###  Media
 
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+Logo - Created by Microsoft Copilot
+
+Images: 
+
+Hannah Busing, MChe Lee, Chang Duong on Unsplash
+
+Lake District image - James L 
+
   
 ###  Acknowledgments
 
-If someone helped you out during your project, you can acknowledge them here! For example someone may have taken the time to help you on slack with a problem. Pop a little thank you here with a note of what they helped you with (I like to try and link back to their GitHub or Linked In account too). This is also a great place to thank your mentor and tutor support if you used them.
+Amy Richardson - our Bootcamp group facilitator, thank you for your constant positive energy and feedback!
+
+Roo Macarthur - Bootcamp Coding Coach, thank you for the help with Bootstrap framework. 
+
+Spencer Barriball - Bootcamp SME, thank you for your help and for finding the missing row class!
+
+The South Yorkshire group - thanks for support on Slack!
