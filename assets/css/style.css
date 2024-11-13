@@ -94,6 +94,11 @@ a {
 
 /*Safeguarding page*/
 
+.img-fluid {
+    width: 100px;
+    height: auto; /* Maintains the aspect ratio */
+}
+
 
 /*Media Queries*/
 
