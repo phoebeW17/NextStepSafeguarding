@@ -68,6 +68,15 @@ p .my-4 {
 
 /*Home Main Section*/  
 
+/*Carousel*/
+
+.carousel-inner img {
+    height: 400px; /* Set a fixed height for all images */
+    width: 50%;
+    object-fit: cover; /* Ensure the image covers the entire area without stretching */
+    margin-bottom: 2rem;
+}
+
 /*Cards*/
 
 .card-title {
