@@ -58,7 +58,9 @@ Next Step is a website for a fictitious walking group local to Sheffield. The we
 
 ### User Stories
 
-Add your user stories here. You want to include first time visitors and returning visitors here as a minimum. Think about each group, and the experience and journey you want them to have on your site. It really helps to think about this before you start coding, and will really help with creating your wireframes.
+1. As a user, I want to easily find the safeguarding page on the website so that I can quickly access important information.
+2. As a club member, I want an easy-to-use form on the website to report any safeguarding concerns so that I can alert the club.
+3. As a member I want to find information on upcoming walks and training so that I can sign up for them.
 
 **First Time Visitor Goals**
 
