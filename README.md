@@ -242,6 +242,37 @@ I got advice from the coding coach in a open call regarding specific advice on B
 
 I got further advice in the SME open call to reposition the carousel feature. Spencer was able to pinpoint the bug and changed the code snippet for me. 
 
+### W3C Validator 
+
+![Index HTML](assets/images/htmlindexvalidated.PNG)
+![Safeguarding HTML](assets/images/safeguardinghtml.PNG)
+![CSS Stylesheet](assets/images/cssvalidated.PNG)
+
+### Lighthouse
+
+I utilised Lighthouse in Google Dev Tools to check the overral performance of my site.
+
+The Home page on mobile: ![Index HTML](assets/images/homelighthousescoremob.PNG)
+
+The Home page on desktop:![Index HTML](assets/images/desktoplighthouse.PNG)
+
+The Safeguarding page on mobile:![Safeguarding HTML](assets/images/sgmoblighthouse.PNG)
+
+The Safeguarding page on desktop:![Safeguarding HTML](assets/images/sgdesklighthouse.PNG)
+
+### Full testing
+
+I have tested both pages on various devices (iPhone X, iPad Air, HP laptop with widescreen connected) in IOS, Chrome and Duckduckgo. 
+
+I used Google Developer tools to check responsivity across screen sizes. 
+
+1. Test links on Home page: Next Step button links to Safeguarding page, works as expected.
+2. Contact Us on Home page: failed due to lack of page to connect to.
+3. Instagram on Home page: Links to an external page on web, works as expected.
+4. Facebook on Home page: Links to an external page on web, works as expected.
+5. X on Home page: Links to an external page on web, works as expected.
+6. Github on Home page: Links to an external page on web, works as expected.
+7. Safeguarding video on Safeguarding page: Links to an external page on web, works as expected.
 
 ## Credits
 

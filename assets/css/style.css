@@ -5,10 +5,14 @@
 :root {
     --primary-font: "Chelsea Market", sans-serif;
     --secondary-font: "Merriweather Sans";
-    --primary-color: #F2F1DF; /* cream */
-    --secondary-color: #012326; /* dark teal */
-    --highlight-color: #0396A6; /* blue */
-    --highlight-color-light: #7a9fc2; /* light blue */
+    --primary-color: #F2F1DF;
+    /* cream */
+    --secondary-color: #012326;
+    /* dark teal */
+    --highlight-color: #0396A6;
+    /* blue */
+    --highlight-color-light: #7a9fc2;
+    /* light blue */
 }
 
 /*Global Styles*/
@@ -18,9 +22,14 @@ body {
     background-color: var(--primary-color);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: var(--primary-font);
-    color: var(--highlight-color); 
+    color: var(--highlight-color);
 }
 
 p .my-4 {
@@ -35,7 +44,7 @@ p .my-4 {
     font-family: var(--primary-font);
 }
 
-.nav-link active{
+.nav-link active {
     color: var(--highlight-color);
 }
 
@@ -47,7 +56,7 @@ p .my-4 {
 
 .btn-primary {
     background-color: var(--secondary-color);
-    border:none;
+    border: none;
 }
 
 .btn-primary:hover {
@@ -61,19 +70,23 @@ p .my-4 {
 /*Carousel*/
 
 .carousel-inner img {
-    height: 300px; /* Set a fixed height for all images */
+    height: 300px;
+    /* Set a fixed height for all images */
     width: 50%;
-    object-fit: cover; /* Ensure the image covers the entire area without stretching */
+    object-fit: cover;
+    /* Ensure the image covers the entire area without stretching */
 }
 
-/*Home Main Section*/  
+/*Home Main Section*/
 
 /*Carousel*/
 
 .carousel-inner img {
-    height: 400px; /* Set a fixed height for all images */
+    height: 400px;
+    /* Set a fixed height for all images */
     width: 50%;
-    object-fit: cover; /* Ensure the image covers the entire area without stretching */
+    object-fit: cover;
+    /* Ensure the image covers the entire area without stretching */
     margin-bottom: 2rem;
 }
 
@@ -102,8 +115,10 @@ a {
 /*Safeguarding page*/
 
 .img-fluid {
-    width: 60%; /* Adjusts to 50% of the parent container's width */
-    height: auto; /* Maintains the aspect ratio */
+    width: 60%;
+    /* Adjusts to 50% of the parent container's width */
+    height: auto;
+    /* Maintains the aspect ratio */
     margin-bottom: 2rem;
 }
 
@@ -112,19 +127,19 @@ a {
 /*Who we are & what we do section*/
 @media (max-width: 425px) {
     .container-fluid .row .col-6 {
-      width: 100%;
-      flex-basis: 100%;
-      max-width: 100%;
-      margin: 10px;
+        width: 100%;
+        flex-basis: 100%;
+        max-width: 100%;
+        margin: 10px;
     }
-  }
+}
 
 /*Meetings section*/
 @media screen and (max-width: 768px) {
     .container-fluid .row .col-4 {
-      width: 100%;
-      flex-basis: 100%;
-      max-width: 100%;
-      margin: 10px;
+        width: 100%;
+        flex-basis: 100%;
+        max-width: 100%;
+        margin: 10px;
     }
-  }
+}
