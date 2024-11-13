@@ -236,7 +236,6 @@ I got advice from the coding coach in a open call regarding specific advice on B
 I got further advice in the SME open call to reposition the carousel feature. Spencer was able to pinpoint the bug and changed the code snippet for me. 
 
 
-
 ## Credits
 
 ### Code Used
@@ -255,7 +254,15 @@ The content on the Home page was written by Phoebe Whiteley. I utlised Copilot t
 
 Websites I used for research: 
 
+[Safeguarding in Sports Clubs](https://www.sportengland.org/guidance-and-support/safeguarding)
 
+[NSPCC Safeguarding in Sport](https://learning.nspcc.org.uk/safeguarding-child-protection/what-is-safeguarding-in-sport)
+
+[Walking Group Safety](https://www.ramblers.org.uk/advice/safety/group-walks.aspx)
+
+ReadMe: 
+
+[ReadMe Template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
 
 ###  Media
 
@@ -267,6 +274,9 @@ Hannah Busing, MChe Lee, Chang Duong on Unsplash
 
 Lake District image - James L 
 
+Links: 
+
+[Sheffield City Council First Contact Team](https://www.sheffield.gov.uk/social-care/adults/adult-abuse)
   
 ###  Acknowledgments
 
