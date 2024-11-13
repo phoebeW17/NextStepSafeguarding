@@ -4,7 +4,7 @@ My static website will be based on a fictitious walking group called Next Step a
 
 - Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
-- Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
+Live site can be found here: [Next Step Safeguarding](https://phoebew17.github.io/NextStepSafeguarding)
 
 ---
 
@@ -158,7 +158,7 @@ Contact Page Design:
 ### General features on each page
 
 - Navigation bar with title and logo with links to further pages on Safeguarding and Contact.
-- Footer with the slogan, socials and links to reporting/ contacting us.
+- Footer with socials and links to reporting/ contacting us.
 - Logo
 
 
@@ -170,15 +170,10 @@ What features would you like to implement in the future on your site? Would you 
 
 ### Accessibility
 
-Be an amazing developer and get used to thinking about accessibility in all of your projects!
-
-This is the place to make a note of anything you have done with accessibility in mind. Some examples include:
-
-Have you used icons and added aria-labels to enable screen readers to understand these?
-Have you ensured your site meets the minimum contrast requirements?
-Have you chosen fonts that are dyslexia/accessible friendly?
-
-Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
+I have used icons and added aria-labels to enable screen readers to understand these.
+I have used alt to describe images.
+My site meets the minimum contrast requirements.
+I have chosen fonts that are dyslexia/accessible friendly.
 
 ## Technologies Used
 
@@ -186,20 +181,31 @@ Code Institute have an amazing channel for all things accessibility (a11y-access
 
 ### Languages Used
 
-HTML
-CSS
+I used HTML and CSS to create my website.
 
 ### Frameworks, Libraries & Programs Used
 
-Add any frameworks, libraries or programs used while creating your project.
+Github 
 
-Make sure to include things like git, GitHub, the program used to make your wireframes, any programs used to compress your images, did you use a CSS framework like Bootstrap? If so add it here (add the version used).
+Bootstrap version 5.3
 
-A great tip for this section is to include them as you use them, that way you won't forget what you ended up using when you get to the end of your project.
+Google Fonts
+
+Font Awesome
+
+Google Dev Tools
+
+Cloud Convert To convert images to WEBP files.
+
+Favicon
 
 ## Deployment & Local Development
 
 👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
+
+I utilised Github Pages to deploy my static site. Please find a guide on how to do so below:
+
+
 
 ### Deployment
 
@@ -229,7 +235,8 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
 
-The Credits section is where you can credit all the people and sources you used throughout your project.
+
+The learning materials produced by 
 
 ### Code Used
 
