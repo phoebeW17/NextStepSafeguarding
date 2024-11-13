@@ -203,13 +203,17 @@ Favicon
 
 👩🏻‍💻 View an example of a completed Deployment & Local Development section [here](https://github.com/kera-cudmore/TheQuizArms#Deployment)
 
-I utilised Github Pages to deploy my static site. Please find a guide on how to do so below:
-
-
 
 ### Deployment
 
-Include instructions here on how to deploy your project. For your first project you will most likely be using GitHub Pages.
+I utilised Github Pages to deploy my static site. Please find a guide on how to do so below:
+
+1. Log in to Github.
+2. Find the repository called NextStepSafeguarding.
+3. Click on the settings icon.
+4. On the left hand side in the navigation page, find the Pages link.
+5. In the  Branch section of Build and Deploy, make sure to choose main from the drop down menu. then select Root in the folder drop menu.
+6. Click Save. The site i snow live and can be accessed via the URL. This can also be found on the repository homepage.
 
 ### Local Development
 
