@@ -128,15 +128,12 @@ Home Page Design:
 Safeguarding Page Design:
 ![Safeguarding page wireframe sketch ](assets/images/safeguardingdesign.JPG)
 
-Contact Page Design: 
-![Contact page wireframe sketch ](assets/images/contactdesign.JPG)
-
 ## Features
 
 ### The home page features:
 
 - Navigation bar with title and logo with links to further pages on Safeguarding and Contact.
-- A jumbotron with a slogan and button to the safeguarding page.
+- A header with a slogan and button to the safeguarding page.
 - A carousel of images from walks.
 - Two Bootstrap cards on ‘Who we are?’ and ‘What we do?’
 - A section on Next meetings with two fake walks and a training day in safeguarding hosted by the club.
@@ -145,15 +142,9 @@ Contact Page Design:
 ### The safeguarding page features:
 
 - Navigation and Footer will remain the same.
-- A jumbotron on what is safeguarding?
-- An embedded video
-- 3 cards on What you can do?, Signs to look for and Action Steps
-
-### **The contact page features:**
-
-- Navigation bar and footer will remain the same with additional more info.
-- A contact form
-- a hero image
+- A header what is safeguarding?
+- A link to a video
+- A section on club policy and guidance.
 
 ### General features on each page
 
@@ -163,7 +154,21 @@ Contact Page Design:
 
 ### Future Implementations
 
-What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
+I would like to add more structure to the Safeguarding page by adding some Bootstrap cards with more specific information titled "What can you do?", "Signs to Look For" and "Action Steps". 
+
+Additionally I would embed the video so it can be accessed easily without leaving the site. 
+
+ I would include a contact page: 
+
+### **The contact page features:**
+
+- Navigation bar and footer will remain the same with additional more info.
+- A contact form
+- a hero image
+
+Contact Page Design: 
+![Contact page wireframe sketch ](assets/images/contactdesign.JPG)
+
 
 ### Accessibility
 
@@ -262,6 +267,8 @@ Websites I used for research:
 
 [Walking Group Safety](https://www.ramblers.org.uk/advice/safety/group-walks.aspx)
 
+[Ann Craft Trust - What is Safeguarding?](https://www.anncrafttrust.org/resources/what-is-safeguarding/) - Text used from this site.
+
 ReadMe: 
 
 [ReadMe Template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
@@ -272,13 +279,15 @@ Logo - Created by Microsoft Copilot
 
 Images: 
 
-Hannah Busing, MChe Lee, Chang Duong on Unsplash
+Annie Spratt, Hannah Busing, MChe Lee, Chang Duong on Unsplash
 
 Lake District image - James L 
 
 Links: 
 
 [Sheffield City Council First Contact Team](https://www.sheffield.gov.uk/social-care/adults/adult-abuse)
+
+[A Video Introduction to Safeguarding Adults in Sport](https://www.anncrafttrust.org/resources/a-video-introduction-to-safeguarding-adults-in-sport)
   
 ###  Acknowledgments
 

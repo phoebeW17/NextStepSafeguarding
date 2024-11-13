@@ -11,7 +11,6 @@
     --highlight-color-light: #7a9fc2; /* light blue */
 }
 
-
 /*Global Styles*/
 body {
     font-family: var(--secondary-font);
@@ -91,14 +90,13 @@ a {
     margin-bottom: 10px;
 }
 
-
 /*Safeguarding page*/
 
 .img-fluid {
-    width: 100px;
+    width: 60%; /* Adjusts to 50% of the parent container's width */
     height: auto; /* Maintains the aspect ratio */
+    margin-bottom: 2rem;
 }
-
 
 /*Media Queries*/
 
